@@ -23,6 +23,6 @@ day_3_index + ": " + day_3 + ",\n" +
 day_4_index + ": " + day_4 + ",\n" +
 day_5_index + ": " + day_5 + ",\n" +
 day_6_index + ": " + day_6 + ",\n" +
-day_7_index + ": " + day_7 + “.” );
+day_7_index + ": " + day_7 + "." );
     }
 }
